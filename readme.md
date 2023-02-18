@@ -1,4 +1,4 @@
-#Description:
+# Description:
 
  - this is a simple .Png Images Resizer Api.
  - Takes  a URL with params('imgname','width','height') (ex: http://localhost:3001/?imgname=sammy&width=400&height=400)
@@ -26,13 +26,11 @@
 
  
 # quick-start-server:
-  --------
+  
 1) npm run compile ---- to compile the ts files
 2) npm run lint  ------ lint & prettier
 3) npm run jasmine ----- debugg(tests)
 4) npm run node ----- start the server
-
-
 
 
 # notes
